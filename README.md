@@ -1,6 +1,6 @@
-# Dashboard Widgets
+Nicolaas Gratama 
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/dashboard-widgets/"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+# Dashboard Widgets
 
 ## What Is This?
 The concept of a Dashboard appears nearly everywhere. Most obvious are car dashboards with displays of speed, mileage, and navigation. Less obvious examples are: the FaceBook banner with notifications, informational displays in lobbies, and “widgets” on iOS and Android. A portion of a larger display is a widget.
@@ -16,4 +16,5 @@ The concept of a Dashboard appears nearly everywhere. Most obvious are car dashb
 * Apply concepts from Web Design 1 and 2 with APIs from Web 3
 
 ## Citations
-List your sources here
+List your sources here:
+Used Animated Background Gradient by Mario Klingemann found on codpen published June 11, 2013
